@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from Urban.task2.views import Blog
+from Urban.task2.views import blog
 from django.views.generic import TemplateView
 import os
 
